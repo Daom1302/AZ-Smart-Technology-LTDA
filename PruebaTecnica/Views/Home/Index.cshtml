@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<PruebaTecnica.Models.Libro>
+
+<div class="container mt-4">
+    <div class="text-center mt-4">
+        <a href="@Url.Action("AgregarLibro")" class="btn btn-primary mr-2">Agregar Nuevo Libro</a>
+        <a href="@Url.Action("AgregarAutor")" class="btn btn-secondary">Agregar Nuevo Autor</a>
+    </div>
+    <h2 class="text-center mb-4">Lista de Libros</h2>
+
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var libro in Model)
+            {
+                <tr>
+                    <td>@libro.Titulo</td>
+                    <td>@libro.Autor.autorName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    
+</div>
+

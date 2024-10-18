@@ -1,0 +1,17 @@
+﻿@model PruebaTecnica.Models.Autor
+
+
+<link rel="stylesheet" href="~/css/estilos.css">
+<div class="container">
+    <h2>Agregar Nuevo Autor</h2>
+
+    @using (Html.BeginForm("AgregarAutor", "Home", FormMethod.Post))
+    {
+        <div class="form-group">
+            <label for="Nombre">Nombre del Autor:</label>
+            @Html.TextBoxFor(m => m.autorName, new { @class = "form-control", placeholder = "Ingrese el nombre del autor" })
+        </div>
+
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    }
+</div>
