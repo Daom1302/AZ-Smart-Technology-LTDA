@@ -10,17 +10,17 @@ La aplicación tiene las siguientes funcionalidades:
 
 ## Pasos para Configurar y Ejecutar la Aplicación
 
-1. **Crear una instancia y una base de datos **
+1. **Crear una instancia y una base de datos**
 
 Creamos una instancia con SQL SERVER la cual llamaremos SQLEXPRESS después crearemos por medio de SQL Management Studio una base de datos que llamaremos "Biblioteca"
 
 2. **Configurar la cadena de conexión**
 
 Abre el archivo appsettings.json y configura la cadena de conexión para que apunte a tu servidor de SQL Server
-
+```json
 "ConnectionStrings": {
     "DefaultConnection": "Server=ALEJO\\SQLEXPRESS;Database=biblioteca;Trusted_Connection=True;Encrypt=False;"
-  }
+  }```
 
 3. **Aplicar migraciones**
 
@@ -28,7 +28,7 @@ Abre la consola del Administrador de Paquetes de NuGet y ejecuta los siguientes 
 
 Update-Database
 
-4. **Ejecutar la aplicación **
+4. **Ejecutar la aplicación**
 
 Podemos ejecutar directamente desde visual Studio o podemos utilizar el comando "dotnet run" para ejecutar la aplicación creando un host teniendo en cuenta que debemos estar dentro de la carpeta PruebaTecnica\PruebaTecnica en este caso podemos acceder a la aplicación ingresando al navegador y usar la siguiente dirección http://localhost:5185
 
@@ -38,11 +38,11 @@ Lista de libros ingresados
 
 ![Pagina de inicio](imagenes/Inicio.png)
 
-Ingresar un nuevo libro 
+Agregar un nuevo libro 
 
 ![Agregar Libros](imagenes/AgregarLibros.png)
 
-Ingresar un nuevo autor 
+Agregar un nuevo autor 
 
 ![Agregar Autores](imagenes/AgregarAutores.png)
 
