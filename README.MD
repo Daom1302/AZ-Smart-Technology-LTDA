@@ -17,7 +17,7 @@ Creamos una instancia con SQL SERVER la cual llamaremos SQLEXPRESS después crea
 2. **Configurar la cadena de conexión**
 
 Abre el archivo appsettings.json y configura la cadena de conexión para que apunte a tu servidor de SQL Server
-```json
+
 "ConnectionStrings": {
     "DefaultConnection": "Server=ALEJO\\SQLEXPRESS;Database=biblioteca;Trusted_Connection=True;Encrypt=False;"
   }
