@@ -35,8 +35,8 @@ Podemos ejecutar directamente desde visual Studio o podemos utilizar el comando 
 
 ##Funcionalidades 
 ![Pagina de inicio](imagenes/Inicio.png)
-![Agregar Libros](AgregarLibros/inicio.png)
-![Agregar Autores](AgregarAutores/inicio.png)
+![Agregar Libros](imagenes/AgregarLibros.png)
+![Agregar Autores](imagenes/AgregarAutores.png)
 
 
 ## Autor
