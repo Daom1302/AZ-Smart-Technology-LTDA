@@ -10,6 +10,7 @@
         <div class="form-group">
             <label for="Nombre">Nombre del Autor:</label>
             @Html.TextBoxFor(m => m.autorName, new { @class = "form-control", placeholder = "Ingrese el nombre del autor" })
+            @Html.ValidationMessageFor(m => m.autorName)
         </div>
 
         <button type="submit" class="btn btn-outline-primary w-100 mr-20">Guardar</button>

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\home\\agregarlibro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,24 +31,20 @@
       "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\home\\agregarautor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\daom1\\source\\repos\\pruebatecnica\\pruebatecnica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D647985-EAF9-43EB-8550-DF7F42CCE2C2}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,59 +58,34 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PruebaTecnica\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-17T20:23:15.391Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "estilos.css",
-              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\wwwroot\\css\\estilos.css",
-              "RelativeDocumentMoniker": "PruebaTecnica\\wwwroot\\css\\estilos.css",
-              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\wwwroot\\css\\estilos.css",
-              "RelativeToolTip": "PruebaTecnica\\wwwroot\\css\\estilos.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-18T22:46:21.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgregarAutor.cshtml",
-              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\AgregarAutor.cshtml",
-              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Home\\AgregarAutor.cshtml",
-              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\AgregarAutor.cshtml",
-              "RelativeToolTip": "PruebaTecnica\\Views\\Home\\AgregarAutor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T07:09:56.991Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T06:04:04.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AgregarLibro.cshtml",
-              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\AgregarLibro.cshtml",
-              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Home\\AgregarLibro.cshtml",
-              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\AgregarLibro.cshtml",
-              "RelativeToolTip": "PruebaTecnica\\Views\\Home\\AgregarLibro.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T05:06:50.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PruebaTecnica\\Views\\_ViewStart.cshtml",
@@ -106,45 +93,111 @@
               "RelativeToolTip": "PruebaTecnica\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T22:44:51.917Z",
+              "WhenOpened": "2024-10-19T06:04:02.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:03:58.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:03:23.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:02:53.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Autor.cs",
               "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Autor.cs",
               "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Autor.cs",
               "RelativeToolTip": "PruebaTecnica\\Models\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T06:51:24.059Z",
+              "WhenOpened": "2024-10-19T05:56:33.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PruebaTecnica\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:06:44.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Libro.cs",
               "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Libro.cs",
               "RelativeToolTip": "PruebaTecnica\\Models\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T04:54:24.432Z",
+              "WhenOpened": "2024-10-19T05:55:29.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregarAutor.cshtml",
+              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\AgregarAutor.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Home\\AgregarAutor.cshtml",
+              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\AgregarAutor.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Home\\AgregarAutor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T05:41:00.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarLibro.cshtml",
+              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\AgregarLibro.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Home\\AgregarLibro.cshtml",
+              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Home\\AgregarLibro.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Home\\AgregarLibro.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T05:42:08.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\daom1\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:45:20.698Z",
               "EditorCaption": ""
             }
           ]
