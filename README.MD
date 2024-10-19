@@ -20,7 +20,7 @@ Abre el archivo appsettings.json y configura la cadena de conexión para que apu
 ```json
 "ConnectionStrings": {
     "DefaultConnection": "Server=ALEJO\\SQLEXPRESS;Database=biblioteca;Trusted_Connection=True;Encrypt=False;"
-  }```
+  }
 
 3. **Aplicar migraciones**
 
