@@ -140,3 +140,4 @@ C:\Users\daom1\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\refint\
 C:\Users\daom1\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.pdb
 C:\Users\daom1\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.genruntimeconfig.cache
 C:\Users\daom1\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\ref\PruebaTecnica.dll
+C:\Users\daom1\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.sourcelink.json
